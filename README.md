@@ -1,7 +1,7 @@
 #FabSchool
 Istruzioni, materiali, informazioni e link sono disponibili a questa pagina [https://github.com/fabschool/fabschool15]()
 
-[Pagine wiki] (wiki)
+[Risorse wiki] (https://github.com/Fabschool/fabschool15/wiki)
 
 
 ##Challenge
