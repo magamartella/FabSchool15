@@ -1,7 +1,7 @@
 #FabSchool
 Istruzioni, materiali, informazioni e link sono disponibili a questa pagina [https://github.com/fabschool/fabschool15]()
 
-[Pagine wiki] (/wiki)
+[Pagine wiki] (wiki)
 
 
 ##Challenge
@@ -34,13 +34,15 @@ Nello specifico queste le disponibilità orarie per l’accesso alla chat:
 - 5 novembre - dalle 14,30 alle 16,30
 - 6 novembre - dalle 10 alle 12
 
-L’ **8 novembre** ogni classe dovrà inviare attraverso un form di google un solo progetto.
+L’ **8 novembre** ogni classe dovrà inviare attraverso [questo form di google](https://docs.google.com/forms/d/1f6c8cuhuoftXL3NzGRNTOss8Wr3ISP5EwvSn_DE455M/viewform) un solo progetto.
 
 
 ##Sviluppo progetto
 
 WeMake inizierà i laboratori con il processo di autovalutazione delle idee progettuali e dei piani di fattibilità. Qualora i progetti non risultassero fattibili proporrà alle classi soluzioni alternative.
 Durante i laboratori sarà possibile realizzare il progetto utilizzando [tecnologie di digital](/wiki/RisorseTecnologie) fabrication  (3d printing, Lasercutting, Arduino) 
+
+Nei prossimi giorni inseriremo le date di svolgimento delle attività.
 
 ##Comunicazione
 
