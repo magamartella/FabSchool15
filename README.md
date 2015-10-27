@@ -1,7 +1,5 @@
 #FabSchool
-Istruzioni, materiali, informazioni e link sono disponibili a questa pagina [https://github.com/fabschool/fabschool15]()
-
-[Risorse wiki] (https://github.com/Fabschool/fabschool15/wiki)
+Istruzioni, materiali, informazioni e link che riguardano il progetto sono disponibili su questo sito e sulle [pagine wiki] (https://github.com/Fabschool/fabschool15/wiki).
 
 
 ##Challenge
@@ -40,7 +38,7 @@ L’ **8 novembre** ogni classe dovrà inviare attraverso [questo form di google
 ##Sviluppo progetto
 
 WeMake inizierà i laboratori con il processo di autovalutazione delle idee progettuali e dei piani di fattibilità. Qualora i progetti non risultassero fattibili proporrà alle classi soluzioni alternative.
-Durante i laboratori sarà possibile realizzare il progetto utilizzando [tecnologie di digital](/wiki/RisorseTecnologie) fabrication  (3d printing, Lasercutting, Arduino) 
+Durante i laboratori sarà possibile realizzare il progetto utilizzando [tecnologie di digital fabrication](wiki/RisorseTecnologie) (3d printing, Lasercutting, Arduino) 
 
 Nei prossimi giorni inseriremo le date di svolgimento delle attività.
 
