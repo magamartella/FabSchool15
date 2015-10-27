@@ -3,7 +3,9 @@ Istruzioni, materiali, informazioni e link che riguardano il progetto sono dispo
 
 
 ##Challenge
-Il 28 ottobre sarà pubblicato il tema/problema da affrontare, le risorse disponibili e le tecnologie da utilizzare, tra cui scegliere. I progetti dovranno dare una risposta al progetto/problema lanciato attraverso strumenti diversi (digital fabrication or smart innovation).
+Pensando alla quotidianità di un anziano che conosci, ad esempio tuo nonno o tua nonna, elabora una soluzione che potrebbe facilitare le attività che compie ogni giorno. L’oggetto-progetto può essere ideato per attività domestiche, per il tempo libero o per esigenze specifiche.
+
+I progetti dovranno dare una risposta al progetto/problema lanciato attraverso strumenti diversi (digital fabrication or smart innovation).
 
 
 ##Timeline
