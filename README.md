@@ -42,7 +42,12 @@ L’ **8 novembre** ogni classe dovrà inviare attraverso [questo form di google
 WeMake inizierà i laboratori con il processo di autovalutazione delle idee progettuali e dei piani di fattibilità. Qualora i progetti non risultassero fattibili proporrà alle classi soluzioni alternative.
 Durante i laboratori sarà possibile realizzare il progetto utilizzando [tecnologie di digital fabrication](https://github.com/Fabschool/fabschool15/wiki/RisorseTecnologie) (3d printing, Lasercutting, Arduino) 
 
-Nei prossimi giorni inseriremo le date di svolgimento delle attività.
+Questo è il calendario previsto per gli interventi di fabbing nelle scuole:
+17-18 novembre - IS Bertarelli Ferraris 
+20 novembre - Liceo Scientifico Bottoni
+24-25 novembre - IIS Luigi Galvani
+26-27 novembre - Liceo Artistico Boccioni
+1-2 dicembre - CFP Associazione CNOS-FAP
 
 ##Comunicazione
 
